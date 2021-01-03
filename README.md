@@ -1,4 +1,4 @@
-# UnityUITricks
+# Unity UI Tricks
 Unity project with tips and tricks for UI in Unity. This project will work as a compilation of cool interactions/animations for UI I've done. Each trick includes a demo of use.
 
 *This is a sample project made with Unity 2019.2.6 (but it should work on previous and following versions). You can use the included Unity Package to use this tool in other projects.*
