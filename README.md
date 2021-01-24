@@ -23,6 +23,12 @@ Ripple effect when interacting with buttons or "clickable" elements, useful way 
 
 ![Demo_gifs](Demo_gifs/GustavoCarneiro_UI_Ripple.gif)
 
+### TRICK 3 - SWIPE/DRAG INTERACTION
+
+Add a swipe/drag interaction to UI. This specific example is extended to replicate the behaviour of a notifications bar. The speed of the input, directly influences the speed and direction of the panel animation - Indicated for mobile use.
+
+![Demo_gifs](Demo_gifs/GustavoCarneiro_UI_SwipeAnimation.gif)
+
 <br>
 <br>
 
