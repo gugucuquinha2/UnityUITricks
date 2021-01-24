@@ -17,6 +17,12 @@ Wave interaction indicated for interactive elements that are aligned with each o
 
 ![Demo_gifs](Demo_gifs/GustavoCarneiro_UI_WaveInteraction.gif)
 
+### TRICK 2 - RIPPLE EFFECT
+
+Ripple effect when interacting with buttons or "clickable" elements, useful way of providing feedback about which elements are interactable. Inspired by Google Material Design.
+
+![Demo_gifs](Demo_gifs/GustavoCarneiro_UI_Ripple.gif)
+
 <br>
 <br>
 
