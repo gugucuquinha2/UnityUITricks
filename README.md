@@ -32,6 +32,8 @@ Add a swipe/drag interaction to UI. This specific example is extended to replica
 <br>
 <br>
 
-The project includes the free version of DOTween plugin (Copyright (c) 2014 Daniele Giardini - Demigiant) with all source code intact and with the proper copyright notices. For more about the plugin visit: http://dotween.demigiant.com/ .
+The project includes the free version of DOTween plugin (Copyright © Daniele Giardini - Demigiant 2014) with all source code intact and with the proper copyright notices. For more about the plugin visit: http://dotween.demigiant.com/ .
 
-Gustavo Carneiro (2021)
+<br>
+
+>Copyright © [Gustavo Carneiro](https://read.cv/gugucuquinha) 2020
